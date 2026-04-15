@@ -18,9 +18,9 @@ A text classification project that uses bag-of-words features and k-nearest neig
 
 ## Repository Structure
 
-- `project1 (2).ipynb` for World Progress
-- `project2 (3).ipynb` for Cardiovascular Disease
-- `project3 (1).ipynb` for Movie Classification
+- `world-progress.ipynb`
+- `cardiovascular-disease.ipynb`
+- `movie-classification.ipynb`
 
 ## Notes
 
